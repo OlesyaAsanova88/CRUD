@@ -1,0 +1,16 @@
+<template>
+  <div>
+    <b-navbar type="dark" variant="dark">
+      <b-navbar-nav>
+        <b-nav-item href="#">Данные пользователя</b-nav-item>
+      </b-navbar-nav>
+    </b-navbar>
+  </div>
+</template>
+
+
+<script>
+export default {
+  name: "UserData",
+};
+</script>
